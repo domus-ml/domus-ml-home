@@ -25,7 +25,7 @@ The goal is to have cluster of cheap stock computers serving as a server farm to
 
 stay tuned more to come here ...
 
-![more to come...](/assets/imagesthought-2123971_640.jpg)
+![more to come...](/assets/images/thought-2123971_640.jpg)
 
 ```
 Enjoy setting up you own cloud :-)
