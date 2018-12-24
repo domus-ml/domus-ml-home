@@ -4,9 +4,9 @@ layout: default
 
 # on this page
 
-Here are some cool open source software that may help you build your own private cloud.
+Here are some cool open source software that may help you to build your own private cloud.
 
-The goal is to have cluster of cheap stock computers serving as server farm to host virtual machines and Linux containers in Highly Available manner. No single node failure should result in any serious outage.
+The goal is to have cluster of cheap stock computers serving as a server farm to host virtual machines and Linux containers in Highly Available manner. No single node failure should result in any serious outage.
 
 ## Proxmox VE
 
@@ -21,11 +21,11 @@ The goal is to have cluster of cheap stock computers serving as server farm to h
 > Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability.
 
 
-# Howtos
+# howtos
 
 stay tuned more to come here ...
 
-![more to come...](https://cdn.pixabay.com/photo/2017/03/07/13/02/thought-2123971_960_720.jpg)
+![more to come...](/assets/imagesthought-2123971_640.jpg)
 
 ```
 Enjoy setting up you own cloud :-)
